@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Gamal Khaled — Backend .NET Developer</title>
+  <desc id="desc">Desperado. A navy and champagne identity with a geometric D monogram. APIs, business systems, and thoughtful software design.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1120" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101A2B"/><stop offset="1" stop-color="#0B111D"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="824" y1="90" x2="1004" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6D2A5"/><stop offset="1" stop-color="#AF8950"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#7E8EA5" fill-opacity="0.15"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="1119" height="339" rx="18" fill="url(#background)" stroke="#263247"/>
+  <path d="M800 1H1102C1111.39 1 1119 8.611 1119 18V322C1119 331.389 1111.39 339 1102 339H800V1Z" fill="url(#grid)"/>
+  <rect x="56" y="52" width="24" height="3" rx="1.5" fill="#D9BD88"/>
+  <text x="94" y="58" fill="#D9BD88" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="3.5">DESPERADO</text>
+  <text x="56" y="146" fill="#F2F4F8" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2.5">Gamal Khaled<tspan fill="#D9BD88">.</tspan></text>
+  <text x="58" y="189" fill="#D9BD88" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" letter-spacing="0.3">Backend .NET Developer</text>
+  <text x="58" y="228" fill="#9CAAC0" font-family="Arial, Helvetica, sans-serif" font-size="16">APIs, business systems, and thoughtful software design.</text>
+  <path d="M58 267H1062" stroke="#2A3546"/>
+  <text x="58" y="304" fill="#A9B6C9" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" letter-spacing="2.2">C#</text>
+  <circle cx="102" cy="300" r="1.5" fill="#6C7584"/>
+  <text x="120" y="304" fill="#A9B6C9" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" letter-spacing="2.2">ASP.NET CORE</text>
+  <circle cx="254" cy="300" r="1.5" fill="#6C7584"/>
+  <text x="272" y="304" fill="#A9B6C9" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" letter-spacing="2.2">SQL SERVER</text>
+  <text x="1062" y="304" text-anchor="end" fill="#78869D" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2.5">DESIGN / BUILD / REFINE</text>
+  <g>
+    <circle cx="938" cy="151" r="92" stroke="#354156" stroke-opacity="0.65"/>
+    <circle cx="938" cy="151" r="109" stroke="#28344A" stroke-opacity="0.55" stroke-dasharray="2 9"/>
+    <path d="M886 94H930C970 94 994 115 994 151C994 187 970 208 930 208H886V94Z" stroke="url(#gold)" stroke-width="2"/>
+    <path d="M902 110H929C960 110 978 124 978 151C978 178 960 192 929 192H902V110Z" stroke="#D9BD88" stroke-opacity="0.4"/>
+    <path d="M918 126H928C948 126 962 133 962 151C962 169 948 176 928 176H918V126Z" fill="url(#gold)"/>
+    <rect x="883" y="91" width="6" height="6" fill="#D9BD88"/>
+    <rect x="883" y="205" width="6" height="6" fill="#D9BD88"/>
+    <path d="M829 151H852M1024 151H1047" stroke="#67738A" stroke-width="1"/>
+    <circle cx="1047" cy="151" r="3" fill="#D9BD88"/>
+  </g>
+</svg>
