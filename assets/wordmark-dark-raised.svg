@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="174" viewBox="0 0 1120 174" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">DESPERADO</title>
+  <desc id="desc">Raised champagne letters with a beveled face, sculpted depth, and a soft cast shadow. The light erases and restores each complete letter on one synchronized loop.</desc>
+  <style>
+    .wordmark-letter {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 84px;
+      font-weight: 700;
+      text-anchor: middle;
+    }
+    .wordmark-static { display: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .wordmark-motion { display: none; }
+      .wordmark-static { display: inline; }
+    }
+    </style>
+  <defs>
+    <linearGradient id="raised-face" x1="0" y1="-65" x2="0" y2="4" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E4D3B4"/>
+      <stop offset=".5" stop-color="#C8B08C"/>
+      <stop offset="1" stop-color="#A88A60"/>
+    </linearGradient>
+    <filter id="cast-shadow" x="-60%" y="-50%" width="220%" height="240%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+    <text id="shape-D" class="wordmark-letter" x="0" y="0">D</text>
+    <g id="raised-D">
+      <use href="#shape-D" x="10" y="12" fill="#000000" opacity=".42" filter="url(#cast-shadow)"/>
+      <use href="#shape-D" x="7.2" y="7.2" fill="#483723"/>
+      <use href="#shape-D" x="6.3" y="6.3" fill="#503D28"/>
+      <use href="#shape-D" x="5.4" y="5.4" fill="#58432D"/>
+      <use href="#shape-D" x="4.5" y="4.5" fill="#614B32"/>
+      <use href="#shape-D" x="3.6" y="3.6" fill="#6B543A"/>
+      <use href="#shape-D" x="2.7" y="2.7" fill="#755E43"/>
+      <use href="#shape-D" x="1.8" y="1.8" fill="#816A4D"/>
+      <use href="#shape-D" x="0.9" y="0.9" fill="#8F7859"/>
+      <use href="#shape-D" x="-.5" y="-.9" fill="#F4E6CB" opacity=".55"/>
+      <use href="#shape-D" fill="url(#raised-face)" stroke="#E8D6B2" stroke-width=".55" paint-order="stroke fill"/>
+    </g>
+    <text id="shape-E" class="wordmark-letter" x="0" y="0">E</text>
+    <g id="raised-E">
+      <use href="#shape-E" x="10" y="12" fill="#000000" opacity=".42" filter="url(#cast-shadow)"/>
+      <use href="#shape-E" x="7.2" y="7.2" fill="#483723"/>
+      <use href="#shape-E" x="6.3" y="6.3" fill="#503D28"/>
+      <use href="#shape-E" x="5.4" y="5.4" fill="#58432D"/>
+      <use href="#shape-E" x="4.5" y="4.5" fill="#614B32"/>
+      <use href="#shape-E" x="3.6" y="3.6" fill="#6B543A"/>
+      <use href="#shape-E" x="2.7" y="2.7" fill="#755E43"/>
+      <use href="#shape-E" x="1.8" y="1.8" fill="#816A4D"/>
+      <use href="#shape-E" x="0.9" y="0.9" fill="#8F7859"/>
+      <use href="#shape-E" x="-.5" y="-.9" fill="#F4E6CB" opacity=".55"/>
+      <use href="#shape-E" fill="url(#raised-face)" stroke="#E8D6B2" stroke-width=".55" paint-order="stroke fill"/>
+    </g>
+    <text id="shape-S" class="wordmark-letter" x="0" y="0">S</text>
+    <g id="raised-S">
+      <use href="#shape-S" x="10" y="12" fill="#000000" opacity=".42" filter="url(#cast-shadow)"/>
+      <use href="#shape-S" x="7.2" y="7.2" fill="#483723"/>
+      <use href="#shape-S" x="6.3" y="6.3" fill="#503D28"/>
+      <use href="#shape-S" x="5.4" y="5.4" fill="#58432D"/>
+      <use href="#shape-S" x="4.5" y="4.5" fill="#614B32"/>
+      <use href="#shape-S" x="3.6" y="3.6" fill="#6B543A"/>
+      <use href="#shape-S" x="2.7" y="2.7" fill="#755E43"/>
+      <use href="#shape-S" x="1.8" y="1.8" fill="#816A4D"/>
+      <use href="#shape-S" x="0.9" y="0.9" fill="#8F7859"/>
+      <use href="#shape-S" x="-.5" y="-.9" fill="#F4E6CB" opacity=".55"/>
+      <use href="#shape-S" fill="url(#raised-face)" stroke="#E8D6B2" stroke-width=".55" paint-order="stroke fill"/>
+    </g>
+    <text id="shape-P" class="wordmark-letter" x="0" y="0">P</text>
+    <g id="raised-P">
+      <use href="#shape-P" x="10" y="12" fill="#000000" opacity=".42" filter="url(#cast-shadow)"/>
+      <use href="#shape-P" x="7.2" y="7.2" fill="#483723"/>
+      <use href="#shape-P" x="6.3" y="6.3" fill="#503D28"/>
+      <use href="#shape-P" x="5.4" y="5.4" fill="#58432D"/>
+      <use href="#shape-P" x="4.5" y="4.5" fill="#614B32"/>
+      <use href="#shape-P" x="3.6" y="3.6" fill="#6B543A"/>
+      <use href="#shape-P" x="2.7" y="2.7" fill="#755E43"/>
+      <use href="#shape-P" x="1.8" y="1.8" fill="#816A4D"/>
+      <use href="#shape-P" x="0.9" y="0.9" fill="#8F7859"/>
+      <use href="#shape-P" x="-.5" y="-.9" fill="#F4E6CB" opacity=".55"/>
+      <use href="#shape-P" fill="url(#raised-face)" stroke="#E8D6B2" stroke-width=".55" paint-order="stroke fill"/>
+    </g>
+    <text id="shape-R" class="wordmark-letter" x="0" y="0">R</text>
+    <g id="raised-R">
+      <use href="#shape-R" x="10" y="12" fill="#000000" opacity=".42" filter="url(#cast-shadow)"/>
+      <use href="#shape-R" x="7.2" y="7.2" fill="#483723"/>
+      <use href="#shape-R" x="6.3" y="6.3" fill="#503D28"/>
+      <use href="#shape-R" x="5.4" y="5.4" fill="#58432D"/>
+      <use href="#shape-R" x="4.5" y="4.5" fill="#614B32"/>
+      <use href="#shape-R" x="3.6" y="3.6" fill="#6B543A"/>
+      <use href="#shape-R" x="2.7" y="2.7" fill="#755E43"/>
+      <use href="#shape-R" x="1.8" y="1.8" fill="#816A4D"/>
+      <use href="#shape-R" x="0.9" y="0.9" fill="#8F7859"/>
+      <use href="#shape-R" x="-.5" y="-.9" fill="#F4E6CB" opacity=".55"/>
+      <use href="#shape-R" fill="url(#raised-face)" stroke="#E8D6B2" stroke-width=".55" paint-order="stroke fill"/>
+    </g>
+    <text id="shape-A" class="wordmark-letter" x="0" y="0">A</text>
+    <g id="raised-A">
+      <use href="#shape-A" x="10" y="12" fill="#000000" opacity=".42" filter="url(#cast-shadow)"/>
+      <use href="#shape-A" x="7.2" y="7.2" fill="#483723"/>
+      <use href="#shape-A" x="6.3" y="6.3" fill="#503D28"/>
+      <use href="#shape-A" x="5.4" y="5.4" fill="#58432D"/>
+      <use href="#shape-A" x="4.5" y="4.5" fill="#614B32"/>
+      <use href="#shape-A" x="3.6" y="3.6" fill="#6B543A"/>
+      <use href="#shape-A" x="2.7" y="2.7" fill="#755E43"/>
+      <use href="#shape-A" x="1.8" y="1.8" fill="#816A4D"/>
+      <use href="#shape-A" x="0.9" y="0.9" fill="#8F7859"/>
+      <use href="#shape-A" x="-.5" y="-.9" fill="#F4E6CB" opacity=".55"/>
+      <use href="#shape-A" fill="url(#raised-face)" stroke="#E8D6B2" stroke-width=".55" paint-order="stroke fill"/>
+    </g>
+    <text id="shape-O" class="wordmark-letter" x="0" y="0">O</text>
+    <g id="raised-O">
+      <use href="#shape-O" x="10" y="12" fill="#000000" opacity=".42" filter="url(#cast-shadow)"/>
+      <use href="#shape-O" x="7.2" y="7.2" fill="#483723"/>
+      <use href="#shape-O" x="6.3" y="6.3" fill="#503D28"/>
+      <use href="#shape-O" x="5.4" y="5.4" fill="#58432D"/>
+      <use href="#shape-O" x="4.5" y="4.5" fill="#614B32"/>
+      <use href="#shape-O" x="3.6" y="3.6" fill="#6B543A"/>
+      <use href="#shape-O" x="2.7" y="2.7" fill="#755E43"/>
+      <use href="#shape-O" x="1.8" y="1.8" fill="#816A4D"/>
+      <use href="#shape-O" x="0.9" y="0.9" fill="#8F7859"/>
+      <use href="#shape-O" x="-.5" y="-.9" fill="#F4E6CB" opacity=".55"/>
+      <use href="#shape-O" fill="url(#raised-face)" stroke="#E8D6B2" stroke-width=".55" paint-order="stroke fill"/>
+    </g>
+  </defs>
+  <g class="wordmark-motion" aria-hidden="true">
+    <g>
+      <g class="cycle-letter" data-letter="D" transform="translate(280 107)" opacity="1">
+        <use href="#raised-D"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.050000000;0.061111111;0.550000000;0.561111111;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <g class="cycle-letter" data-letter="E" transform="translate(350 107)" opacity="1">
+        <use href="#raised-E"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.079166667;0.090277778;0.579166667;0.590277778;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <g class="cycle-letter" data-letter="S" transform="translate(420 107)" opacity="1">
+        <use href="#raised-S"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.108333333;0.119444444;0.608333333;0.619444444;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <g class="cycle-letter" data-letter="P" transform="translate(490 107)" opacity="1">
+        <use href="#raised-P"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.137500000;0.148611111;0.637500000;0.648611111;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <g class="cycle-letter" data-letter="E" transform="translate(560 107)" opacity="1">
+        <use href="#raised-E"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.166666667;0.177777778;0.666666667;0.677777778;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <g class="cycle-letter" data-letter="R" transform="translate(630 107)" opacity="1">
+        <use href="#raised-R"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.195833333;0.206944444;0.695833333;0.706944444;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <g class="cycle-letter" data-letter="A" transform="translate(700 107)" opacity="1">
+        <use href="#raised-A"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.225000000;0.236111111;0.725000000;0.736111111;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <g class="cycle-letter" data-letter="D" transform="translate(770 107)" opacity="1">
+        <use href="#raised-D"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.254166667;0.265277778;0.754166667;0.765277778;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <g class="cycle-letter" data-letter="O" transform="translate(840 107)" opacity="1">
+        <use href="#raised-O"/>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.283333333;0.294444444;0.783333333;0.794444444;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g class="scan-light">
+      <g opacity=".65">
+        <rect x="-1" y="-34" width="2" height="68" rx="1" fill="#E2C68F" />
+        <rect x="-3" y="-34" width="6" height="68" rx="3" fill="#E2C68F" opacity=".08" />
+        <animate attributeName="opacity" values=".65;.65;0;0;.65" keyTimes="0;.64;.68;.94;1" dur="7.2s" calcMode="linear" repeatCount="indefinite" />
+      </g>
+      <path d="M-15 0H-3" stroke="#E2C68F" stroke-width="1.5" stroke-linecap="round" opacity=".35" />
+      <circle r="11" fill="#E2C68F" opacity=".06" />
+      <circle r="6" fill="#E2C68F" opacity=".14" />
+      <circle r="2.7" fill="#E2C68F" />
+      <circle r="1.2" fill="#FFF0CB" />
+      <animateMotion dur="7.2s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0.445732997;1" keyTimes="0;.666666667;1" rotate="auto" path="M160 76H960A24 24 0 0 1 984 100V122A24 24 0 0 1 960 146H160A24 24 0 0 1 136 122V100A24 24 0 0 1 160 76Z" />
+    </g>
+  </g>
+  <g class="wordmark-static" aria-hidden="true">
+    <use href="#raised-D" transform="translate(280 107)"/>
+    <use href="#raised-E" transform="translate(350 107)"/>
+    <use href="#raised-S" transform="translate(420 107)"/>
+    <use href="#raised-P" transform="translate(490 107)"/>
+    <use href="#raised-E" transform="translate(560 107)"/>
+    <use href="#raised-R" transform="translate(630 107)"/>
+    <use href="#raised-A" transform="translate(700 107)"/>
+    <use href="#raised-D" transform="translate(770 107)"/>
+    <use href="#raised-O" transform="translate(840 107)"/>
+  </g>
+</svg>
