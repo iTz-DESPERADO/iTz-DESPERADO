@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="174" viewBox="0 0 1120 174" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">DESPERADO</title>
+  <desc id="desc">Flat 2D lettering. A light erases the letters from left to right, loops underneath, and reveals them on its next pass.</desc>
+  <style>
+    .wordmark-letter {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 84px;
+      font-weight: 700;
+      text-anchor: middle;
+    }
+    .wordmark-static { display: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .wordmark-motion { display: none; }
+      .wordmark-static { display: inline; }
+    }
+  </style>
+  <g class="wordmark-motion" aria-hidden="true">
+    <g fill="#736B5D">
+      <text class="wordmark-letter cycle-letter" x="280" y="107" opacity="1">D
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.050000000;0.061111111;0.550000000;0.561111111;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+      <text class="wordmark-letter cycle-letter" x="350" y="107" opacity="1">E
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.079166667;0.090277778;0.579166667;0.590277778;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+      <text class="wordmark-letter cycle-letter" x="420" y="107" opacity="1">S
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.108333333;0.119444444;0.608333333;0.619444444;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+      <text class="wordmark-letter cycle-letter" x="490" y="107" opacity="1">P
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.137500000;0.148611111;0.637500000;0.648611111;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+      <text class="wordmark-letter cycle-letter" x="560" y="107" opacity="1">E
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.166666667;0.177777778;0.666666667;0.677777778;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+      <text class="wordmark-letter cycle-letter" x="630" y="107" opacity="1">R
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.195833333;0.206944444;0.695833333;0.706944444;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+      <text class="wordmark-letter cycle-letter" x="700" y="107" opacity="1">A
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.225000000;0.236111111;0.725000000;0.736111111;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+      <text class="wordmark-letter cycle-letter" x="770" y="107" opacity="1">D
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.254166667;0.265277778;0.754166667;0.765277778;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+      <text class="wordmark-letter cycle-letter" x="840" y="107" opacity="1">O
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0.000000000;0.283333333;0.294444444;0.783333333;0.794444444;1.000000000" dur="14.4s" calcMode="linear" repeatCount="indefinite"/>
+      </text>
+    </g>
+    <g class="scan-light">
+      <g opacity=".65">
+        <rect x="-1" y="-34" width="2" height="68" rx="1" fill="#AD8D50"/>
+        <rect x="-3" y="-34" width="6" height="68" rx="3" fill="#AD8D50" opacity=".08"/>
+        <animate attributeName="opacity" values=".65;.65;0;0;.65" keyTimes="0;.64;.68;.94;1" dur="7.2s" calcMode="linear" repeatCount="indefinite"/>
+      </g>
+      <path d="M-15 0H-3" stroke="#AD8D50" stroke-width="1.5" stroke-linecap="round" opacity=".35"/>
+      <circle r="11" fill="#AD8D50" opacity=".06"/>
+      <circle r="6" fill="#AD8D50" opacity=".14"/>
+      <circle r="2.7" fill="#AD8D50"/>
+      <circle r="1.2" fill="#7F612E"/>
+      <animateMotion dur="7.2s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0.445732997;1" keyTimes="0;.666666667;1" rotate="auto" path="M160 76H960A24 24 0 0 1 984 100V122A24 24 0 0 1 960 146H160A24 24 0 0 1 136 122V100A24 24 0 0 1 160 76Z"/>
+    </g>
+  </g>
+  <g class="wordmark-static" fill="#736B5D" aria-hidden="true">
+    <text class="wordmark-letter" x="280" y="107">D</text>
+    <text class="wordmark-letter" x="350" y="107">E</text>
+    <text class="wordmark-letter" x="420" y="107">S</text>
+    <text class="wordmark-letter" x="490" y="107">P</text>
+    <text class="wordmark-letter" x="560" y="107">E</text>
+    <text class="wordmark-letter" x="630" y="107">R</text>
+    <text class="wordmark-letter" x="700" y="107">A</text>
+    <text class="wordmark-letter" x="770" y="107">D</text>
+    <text class="wordmark-letter" x="840" y="107">O</text>
+  </g>
+</svg>
