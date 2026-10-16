@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="Gamal Khaled · Desperado · Backend .NET Developer. APIs, business systems, and thoughtful software design." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-animated.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light-animated.svg">
+  <img src="assets/header-light-animated.svg" alt="Gamal Khaled · Desperado · Backend .NET Developer. APIs, business systems, and thoughtful software design." width="100%">
 </picture>
 
 <p align="center">
