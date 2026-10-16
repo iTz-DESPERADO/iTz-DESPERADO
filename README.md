@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-light.svg">
-  <img src="assets/wordmark-light.svg" alt="DESPERADO" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark-cycle.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-light-cycle.svg">
+  <img src="assets/wordmark-light-cycle.svg" alt="DESPERADO" width="100%">
 </picture>
 
 <picture>

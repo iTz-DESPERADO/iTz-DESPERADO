@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="174" viewBox="0 0 1120 174" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">DESPERADO</title>
+  <desc id="desc">Flat 2D lettering. A moving light erases D through O, loops underneath, then reveals the letters on its next pass.</desc>
+  <style>
+    .wordmark-letter {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 84px;
+      font-weight: 700;
+      text-anchor: middle;
+      opacity: 1;
+      animation-duration: 16s;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+    @keyframes letter-0 {
+      0%, 2.272727% { opacity: 1; }
+      3.272727%, 52.272727% { opacity: 0; }
+      53.272727%, 100% { opacity: 1; }
+    }
+    @keyframes letter-1 {
+      0%, 5.454545% { opacity: 1; }
+      6.454545%, 55.454545% { opacity: 0; }
+      56.454545%, 100% { opacity: 1; }
+    }
+    @keyframes letter-2 {
+      0%, 8.636364% { opacity: 1; }
+      9.636364%, 58.636364% { opacity: 0; }
+      59.636364%, 100% { opacity: 1; }
+    }
+    @keyframes letter-3 {
+      0%, 11.818182% { opacity: 1; }
+      12.818182%, 61.818182% { opacity: 0; }
+      62.818182%, 100% { opacity: 1; }
+    }
+    @keyframes letter-4 {
+      0%, 15.000000% { opacity: 1; }
+      16.000000%, 65.000000% { opacity: 0; }
+      66.000000%, 100% { opacity: 1; }
+    }
+    @keyframes letter-5 {
+      0%, 18.181818% { opacity: 1; }
+      19.181818%, 68.181818% { opacity: 0; }
+      69.181818%, 100% { opacity: 1; }
+    }
+    @keyframes letter-6 {
+      0%, 21.363636% { opacity: 1; }
+      22.363636%, 71.363636% { opacity: 0; }
+      72.363636%, 100% { opacity: 1; }
+    }
+    @keyframes letter-7 {
+      0%, 24.545455% { opacity: 1; }
+      25.545455%, 74.545455% { opacity: 0; }
+      75.545455%, 100% { opacity: 1; }
+    }
+    @keyframes letter-8 {
+      0%, 27.727273% { opacity: 1; }
+      28.727273%, 77.727273% { opacity: 0; }
+      78.727273%, 100% { opacity: 1; }
+    }
+    .scan-beam { animation: beam-visibility 8s linear infinite; }
+    @keyframes beam-visibility {
+      0%, 57% { opacity: .65; }
+      61%, 94% { opacity: 0; }
+      100% { opacity: .65; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .wordmark-letter { animation: none; opacity: 1; }
+      .scan-light { display: none; }
+    }
+  </style>
+  <g fill="#736B5D" aria-hidden="true">
+    <text class="wordmark-letter letter-0" x="280" y="107" style="animation-name: letter-0">D</text>
+    <text class="wordmark-letter letter-1" x="350" y="107" style="animation-name: letter-1">E</text>
+    <text class="wordmark-letter letter-2" x="420" y="107" style="animation-name: letter-2">S</text>
+    <text class="wordmark-letter letter-3" x="490" y="107" style="animation-name: letter-3">P</text>
+    <text class="wordmark-letter letter-4" x="560" y="107" style="animation-name: letter-4">E</text>
+    <text class="wordmark-letter letter-5" x="630" y="107" style="animation-name: letter-5">R</text>
+    <text class="wordmark-letter letter-6" x="700" y="107" style="animation-name: letter-6">A</text>
+    <text class="wordmark-letter letter-7" x="770" y="107" style="animation-name: letter-7">D</text>
+    <text class="wordmark-letter letter-8" x="840" y="107" style="animation-name: letter-8">O</text>
+  </g>
+  <g class="scan-light" aria-hidden="true">
+    <g class="scan-beam">
+      <rect x="-1" y="-34" width="2" height="68" rx="1" fill="#AD8D50"/>
+      <rect x="-3" y="-34" width="6" height="68" rx="3" fill="#AD8D50" opacity=".08"/>
+    </g>
+    <path d="M-15 0H-3" stroke="#AD8D50" stroke-width="1.5" stroke-linecap="round" opacity=".35"/>
+    <circle r="11" fill="#AD8D50" opacity=".06"/>
+    <circle r="6" fill="#AD8D50" opacity=".14"/>
+    <circle r="2.7" fill="#AD8D50"/>
+    <circle r="1.2" fill="#7F612E"/>
+    <animateMotion dur="8s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0.435702104;1" keyTimes="0;.6;1" rotate="auto" path="M230 76H890A24 24 0 0 1 914 100V122A24 24 0 0 1 890 146H230A24 24 0 0 1 206 122V100A24 24 0 0 1 230 76Z"/>
+  </g>
+</svg>
